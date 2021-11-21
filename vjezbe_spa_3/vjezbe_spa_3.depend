@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606394083 source:c:\users\ilario\desktop\backup\c sranja\vjezbe_spa_3\funkcije.c
+	"funkcije.h"
+
+1606394083 c:\users\ilario\desktop\backup\c sranja\vjezbe_spa_3\funkcije.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1606394083 source:c:\users\ilario\desktop\backup\c sranja\vjezbe_spa_3\main.c
+	"funkcije.h"
+
+1606394083 source:c:\users\ilario\desktop\backup\c sranja\vjezbe_spa_3\funkcije.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
