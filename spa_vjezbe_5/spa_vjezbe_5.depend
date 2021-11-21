@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607437348 source:c:\users\ilario\desktop\backup\c sranja\spa_vjezbe_5\main.c
+	"dictionary.h"
+
+1607437348 c:\users\ilario\desktop\backup\c sranja\spa_vjezbe_5\dictionary.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1607437960 source:c:\users\ilario\desktop\backup\c sranja\spa_vjezbe_5\dictionary.c
+	"dictionary.h"
+
+1607437348 source:c:\users\ilario\desktop\backup\c sranja\spa_vjezbe_5\dictionary.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
