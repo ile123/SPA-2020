@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Ilario\source\repos\SPA_VJEZBA1_PRAVA_2021\SPA_VJEZBA1_PRAVA_2021\main.c(149,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ilario\source\repos\SPA_VJEZBA1_PRAVA_2021\SPA_VJEZBA1_PRAVA_2021\main.c(150,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SPA_VJEZBA1_PRAVA_2021.vcxproj -> C:\Users\Ilario\source\repos\SPA_VJEZBA1_PRAVA_2021\Debug\SPA_VJEZBA1_PRAVA_2021.exe
