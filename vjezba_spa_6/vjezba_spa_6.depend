@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610280122 source:c:\users\ilario\desktop\backup\c sranja\vjezba_spa_6\funkcije.c
+	"funkcije.h"
+
+1610471416 c:\users\ilario\desktop\backup\c sranja\vjezba_spa_6\funkcije.h
+	<stdio.h>
+	<stdlib.h>
+
+1610295013 source:c:\users\ilario\desktop\backup\c sranja\vjezba_spa_6\main.c
+	"funkcije.h"
+
