@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605124920 source:c:\users\ilario\desktop\backup\c sranja\vjezba_2_spa\main.c
+	<stdio.h>
+	<malloc.h>
+
